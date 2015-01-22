@@ -1,0 +1,1 @@
+Mining social features (e.g., stars, forks) of GitHub repositories.
